@@ -1,0 +1,32 @@
+[
+  {
+    "podcastName": "flow",
+    "episode": "SAMANTA ALVES - Flow #365",
+    "videoId": "3uD3wIiNjN4",
+    "categories": ["esporte", "comedia", "futebol"]
+  },
+  {
+    "podcastName": "inteligencia",
+    "episode": "BOLSONARO",
+    "videoId": "3uD3wIiNjN4",
+    "categories": ["militar", "geopolitica", "policial"]
+  },
+  {
+    "podcastName": "inteligencia",
+    "episode": "LULA",
+    "videoId": "3uD3wIiNjN4",
+    "categories": ["militar", "geopolitica", "policial"]
+  },
+  {
+    "podcastName": "inteligencia",
+    "episode": "TREIZOITAO",
+    "videoId": "3uD3wIiNjN4",
+    "categories": ["economia", "bitcoin", "policial"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "CBUM - Flow #365",
+    "videoId": "3uD3wIiNjN4",
+    "categories": ["esporte", "bodybuilder", "academia"]
+  }
+]
